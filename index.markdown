@@ -22,8 +22,8 @@ You can also send me an [e-mail] if you like to.
 [português, por favor][pt]
 
 [coding]: https://github.com/henriqueboaventura
-[judge]: https://www.scoresheets.cc/kidh0
-[beer]: https://untappd.com/user/kidh0/
+[judge]: https://www.scoresheets.cc/henriqueboaventura
+[beer]: https://untappd.com/user/henriqueboaventura
 [podcast]: http://www.brassagemforte.com.br
 [scoresheets.cc]: http://scoresheets.cc
 [bjcp-score]: http://www.brassagemforte.com.br/bjcp-score
