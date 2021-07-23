@@ -2,24 +2,23 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
+title: Henrique Boaventura [de]
 ---
 
-Hello, my name is Henrique Boaventura.
+Hallo, mein Name ist Henrique Boaventura
 
-I code [stuff][coding].
+Ich entwickle [Dinge][coding].
 
-I also like [beer] and [judge it][judge], and have a [podcast] about homebrewing.
+Ich mag auch [Bier][beer] und [Richterbier][judge], und habe einen [Podcast] zum Thema homebrewing.
 
-Sometimes I mix both beer and code and create things like this:
+Manchmal mische ich sowohl Bier als auch Code und erstelle Dinge wie diese:
 - [scoresheets.cc]
 - [bjcp-score]
 
-But for the most part I do [consulting].
+Aber hauptsächlich mache ich [TI-Beratung][consulting].
 
-You can also send me an [e-mail] if you like to.
-
-[português, por favor][pt] / [Deutsch, bitte][de]
+Sie können mir auch eine [E-mail] senden, wenn Sie möchten.
 
 [coding]: https://github.com/henriqueboaventura
 [judge]: https://www.scoresheets.cc/henriqueboaventura
@@ -29,5 +28,3 @@ You can also send me an [e-mail] if you like to.
 [bjcp-score]: http://www.brassagemforte.com.br/bjcp-score
 [consulting]: https://www.linkedin.com/in/hboaventura/
 [e-mail]: mailto:hboaventura@gmail.com
-[pt]: /pt
-[de]: /de
