@@ -10,7 +10,7 @@ Olá, meu nome é Henrique Boaventura.
 
 Eu programo [coisas][coding].
 
-Eu também gosto de [cerveja][beer] e [julgá-las][judge], e tenho um [podcast] sobre cerveja caseira.
+Eu também gosto de [cerveja][beer] e de [avaliá-las][judge], e tenho um [podcast] sobre cerveja caseira.
 
 As vezes eu misturo cerveja e código e crio coisas assim:
 - [scoresheets.cc]
