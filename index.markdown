@@ -26,7 +26,7 @@ You can also send me an [e-mail] if you like to.
 [beer]: https://untappd.com/user/henriqueboaventura
 [podcast]: http://www.brassagemforte.com.br
 [scoresheets.cc]: http://scoresheets.cc
-[bjcp-score]: http://www.brassagemforte.com.br/bjcp-score
+[bjcp-score]: https://bjcpscore.brassagemforte.com.br/
 [consulting]: https://www.linkedin.com/in/hboaventura/
 [e-mail]: mailto:hboaventura@gmail.com
 [pt]: /pt
